@@ -6,7 +6,7 @@
 
 看了 B 站 up 主 不器心智 的 [视频](https://b23.tv/xUKewsx) 我自己有点感悟
 
-我也自己做了视频的摘要， 可以查看 [originla.md](./original.md)
+我也自己做了视频的摘要， 可以查看 [original.md](./original.md)
 
 希望可以给你带来一点启发
 
