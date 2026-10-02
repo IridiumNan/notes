@@ -322,3 +322,41 @@ Two goals of rule #2: improving your ability to concentrate intensely and overco
 
 
 ***Don't Take Breaks from Distraction. Insteadd Take Breaks from Focus***
+
+I propose an alternative to the Internet Sabbath. Instead of scheduling the occasional break from distraction so you can focus, you should instead schedule the occasional break from focus to give in to distraction.To make this suggestion more concrete, let's make the simplifying assumption that Internet use is synonymous with seeking distracting stimuli. Similarly, let's consider working in the absence of the Internet to be synnoymous with more focus work.
+
+With these rough categorizations established, the strategy works as fllows: Schedule in advance when you'll use the Internet, and then avoid it altogether outside these times.
+
+
+
+<mark>I think this suggestion is incredible as it inverse all mindest that focus is option to focus is default</mark>
+
+
+
+While the basic idea behind this strategy is straightforward, putting it into practice can be tricky. To help you successd, here are three important points to consider.
+
+
+
+- **Point #1** This strategy works even if your job requires lots of Internet use and/or prompt e-mail replyies
+
+
+
+- **Point #2** Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
+
+If this is infeasible--perhaps you need to get the current offline activity done promptly--then the correct response is to change your schedule so that your next Internet block begins sooner. The key in making this change, however, is to not schedule the next Internet block to occur immediately. Instead, enforce at least a five-minutes gap between the current moment and the next time you can go online.
+
+- **Point #3** Scheduling Internet use at home as well as at work can further improve your concentration training.
+
+As in the workplace variantion of this strategy, if the Internet plays a large and important role in your evening entertainment, that's fine: Schedule lots of long Internet blocks. The key here isn't to avoid or even to reduce the total amount of time you spend engaging in distracting behavior, but is instead to give yourself plenty of opportunities throughtout your evening to resist switching to these distraction at the slightest hint of boredom.
+
+
+
+***Meditate Productively***
+
+The goal of productive meditation is to take a period in which you're occupied physically but not mentally--walking, jogging, driving, showering--and focus your attention on a single well-defined professional problem. As in mindfulness meditation, you must continue to bring your attention back to the problem at hand when it wanders or stalls.
+
+
+
+## Rule #3
+
+## Quit Social Media
