@@ -314,3 +314,69 @@ After thirty days of this self-imposed network isolatioin, ask yourself the foll
 ***Don't User the Internet to Entertain Yourself***
 
 Arnold Bennet identified the solution to this problem a hundred years earlier: *Put more thought into your leisure time.* In other words, this strategy suggest that when it comes to your relaxation, don't default to whatever catches your attention at the moment, but instead dedicate some advance thinkinig to the question of how you want to spend your "day within a day."
+
+---
+
+## Rule #4
+
+## Drain the Shallows
+
+37signal's experiments highlights an important reality: The shallow work that increasingly dominates the time and attention of knowledge workers is less vital than it often seems in the moment. For most business, if you eliminated significant amounts of this shallowness, their bottom line would likely remain unaffected.
+
+
+
+***Schedule Every Minute of Your Day***
+
+**We spend much of your day on autopilot**
+
+Here's my suggestion: At the beginning of each workday, turn to a new page of lined paper in a notebook you dedicate to this purpose. Down the left-hand side of the page, mark every other line with an hour of the day, covering the full set of hours you typically work. Now comes the important part: Divide the hours of your workday into blocks and assign activities to the blocks. For example, you might block off nine a.m. to eleven a.m. for writing a client's press release. To do so, actually draw a box that covers the lines corresponding to these hours, then write "press release" inside the box. Not every block need be dedicated to a work task. There may time blocks for lunch or relaxation breaks. To keep things reasonably clean, the minimum length of a block should be thirty minutes.
+
+When you're done scheduling your day, every minute should be part of a block. You have, in effect, given minute of your workday a job.
+
+<mark>Maybe that's actually we own our time and life. Because it's easier to do something attactive but not meaningful to ourself. Let the conscience brain control your life instead of the random autopilot which ruins your time.</mark>
+
+
+
+Joseph's critique is driven by the mistaken idea that the goal of a schedule is to force your behavior into a rigid plan. This type of scheduling, however, isn't about constraint--it's instead about thoughtfulness. It's simple habit that forces you to continually take a moment throughout your day and ask: "What makes sense for me to do with the time that remains?" It's a habit of asking that returns results, not your unyielding fidelity to the answer.
+
+Whthout structure, it's easy to allow your time to devolve into the shallow--e-mail, social media, Web surfing. This type of shallow behavior, though satisfying in the moment, is not conducive to creativity. With structure, on the other hand, you can ensure that you regularly schedule blocks to grapple with a new idea, or work deeply on something challenging, or brainstorm for a fixed period--the type of commitment more likely to instigate innovation.
+
+To summarize, the motivation for this strategy is the recognition that a deep work habit requires you to treat your time with respect. A good first step toward this respectful handling is the advise outlined here: Decide in advance what you're going to do with every minute of your workday.
+
+<mark>This suggestion is impressive and hard to accept. However, if the presets: (If we don't schedule our time ourself, our life will be occupied by the autopilot or random things so that we barely make real progress) is true, then this suggestion is meaningful. The core of this is assign the time source to needed but not throw it then hope it works.</mark>
+
+***Quantify the Depth of Every Activity***
+
+The definition of *Shallow work*
+
+**Shallow Work**: noncongnitively demanding, logical-style tasks, oftne performed while distracted. These efforts tend not to create much new value in the world and are easy to replicate.
+
+Some activities clearly satify this definition. Checking e-mail, for example, or scheduling a confernece call, is unquestionably shallow in nature. But the classification of other activities can be more ambiguous.
+
+
+
+asking a simple question to classify them:
+
+*How long would it take (in mouths) to train a smart recent college graduate with no specialized training in my field to coomplete this task?*
+
+
+
+***Become Hard to Reach***
+
+- **Tip #1**: Make People Who Send You E-Mail Do More Work
+
+User a sender filter like this:
+
+If you have an offer, opportunity, or introduction that might make my life more interesting, e-mail me at interesting *calnewport.com*. For the reason stated above, I'll only respond to those proposals that are a good match for my schedule and interest.
+
+- **Tip #3** Don't Respond
+
+Do not reply to an e-mail message if any of the following applies:
+
+- It's ambiguous ro otherwise makes it hard for you to generate reasonable response.
+
+- It's not a question or proposal that interstes you.
+
+- Nothing really good would happen if you did respond and nothing really bad would happend if you didn't.
+
+---
