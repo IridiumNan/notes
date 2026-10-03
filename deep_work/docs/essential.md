@@ -18,6 +18,8 @@
 
 每条记录后面都必须说明满足哪个 filter
 
+---
+
 ## Record
 
 ### Eudaimonia Machine (5)
@@ -37,8 +39,11 @@ See also: [The Eudaimonia Machine- An Office Space Concept for the 21st Century?
 
 - Where you'll work and for how long
 - How you'll work once you start to work (structure your work with specific structure or rules)
+
 > This is interesting, the process itself specify what you can do and what you should not do so that you can just focus on the deep work itself, not several decisions.
+
 - How you'll support your work
+
 > the suggestions are all vague. And we should know what actually we need for deep work.
 
 ### 4 Discipline of Execution (3, 4)
@@ -78,14 +83,13 @@ This strategy works even if your job requires lots of Internet use and/or prompt
 - Point 2
 Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
 
-### Any-Benefit mindset (1, 2)
+### Any-Benefit Mindset (1, 2)
 
 **The Any-Benefit Approach to Network Tool Selection**
 
 You're justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you won't use it.
 
-The problem with this approach, of course, is that it ignore all the negtives that come along with the tool in question. These services are engineered to be addictive--robbing time and attention from activities that more directly support your professional and personal goals.
-
+The problem with this approach, of course, is that it ignore all the negatives that come along with the tool in question. These services are engineered to be addictive--robbing time and attention from activities that more directly support your professional and personal goals.
 
 **The Craftsman Approach to Tool Selection**
 
@@ -100,3 +104,15 @@ Here's my suggestion: At the beginning of each workday, turn to a new page of li
 **When you're done scheduling your day, every minute should be part of a block. You have, in effect, given minute of your workday a job.**
 
 To summarize, the motivation for this strategy is the recognition that a deep work habit requires you to treat your time with respect.
+
+### Filter (1, 4)
+
+Use a sender filter like this:
+
+If you have an offer, opportunity, or introduction that might make my life more interesting, e-mail me at interesting *calnewport.com*. For the reason stated above, I'll only respond to those proposals that are a good match for my schedule and interest.
+
+---
+
+For all theory question and analysis, see [theory](./theory/README.md)
+
+For all practice and analysis, see [practice](./practice/README.md)
