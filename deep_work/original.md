@@ -1,4 +1,14 @@
-**The Deep Work Hypothesis**
+# Original Content of Deep Work
+
+## Definition
+
+**Deep Work**: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
+
+**Shallow Work**: Noncognitively demanding, logistical-style tasks, often performed while distracted. These efforts tend to not create much new value in the world and are easy to replicate.
+
+---
+
+## The Deep Work Hypothesis
 
 The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our econonmiy.
 
@@ -6,9 +16,9 @@ As a sequence, the few who cultivate this skill, and then make it the core of th
 
 This book has two goals, pursued in two parts.
 
-The first, tackled in Part 1, is to convince you that deep work hypothesis is true.
+The first, tackled in Part 1, is to **convince you that deep work hypothesis is true**.
 
-The second, tackled in Part 2, is to teach you how to take advantage habits to place deep work at the core of your professional life.
+The second, tackled in Part 2, is to **teach you how to take advantage habits to place deep work at the core of your professional life.**
 
 ---
 
@@ -20,9 +30,9 @@ Let's pull together the threads spun so far: Current economic thinking, as I've 
 
 ***Two Core Ability for Thriving in New Economy***
 
-1. The ability to quickly master hard things.
+1. The ability to **quickly master hard things**.
 
-2. The ability to produce at an elite level, in terms of both quality and speed.
+2. The ability to produce at an elite level, in terms of both **quality and speed**.
 
 **The two core abilities just described depend on our ability to perform deep work.**
 
@@ -161,19 +171,19 @@ This name is a nod to the fact that jounrnalists, like Walter Isaacson, are trai
 
 To make the most out of your deep work sessions, build rituals of the same level of strictnesss and idiosyncrasy as the important thinkers mentioned previously.
 
-There's no one correct deep work ritual--the right fit depends on both the person and the type of project pursued. But there are some general questions that any effecient ritual must address:
+There's no one correct deep work ritual--the right fit depends on both the person and the type of project pursued. But there are some general questions that any efficient ritual must address:
 
 - **Where you'll work and for how long**
 
-Your ritual needs to specify a location for your deep work efforts. This location can be as simple as your normal office with the door shut and dest cleaned off (a colleague of mine likes to put a hotel-style "do not distub" sign on his office door when he's tackling something difficult). If it's posssible to indentify a location userd *only* for depth--for instance, a conference room or quiet library--the positive effect ca be even greater.
+Your ritual needs to specify a location for your deep work efforts. This location can be as simple as your normal office with the door shut and dest cleaned off (a colleague of mine likes to put a hotel-style "do not distub" sign on his office door when he's tackling something difficult). If it's possible to identify a location userd *only* for depth--for instance, a conference room or quiet library--the positive effect ca be even greater.
 
 - **How you'll work once you start to work**
 
-Your ritual needs rules and processes to keep your efforts structed. For example, you might institude a ban on any Internet use, or maintain a metric such as words produced per twenty-minue internal to keep your concentration honed. Without this structure, you'll have to mentally litigate again and again what you should and should not be doing during there sessions and keep tring to assess whether you're workding sufficiently hard. There are unnecessary drains on your willpower reserves.
+Your ritual needs rules and processes to keep your efforts structured. For example, you might institute a ban on any Internet use, or maintain a metric such as words produced per twenty-minute internal to keep your concentration honed. Without this structure, you'll have to mentally litigate again and again what you should and should not be doing during there sessions and keep trying to assess whether you're working sufficiently hard. There are unnecessary drains on your willpower reserves.
 
 - **How you'll support your work**
 
-Your ritual needs to ensure your brain gets the support it needs to keep operating at a high level of depth. For example, the ritual might specifiy that you start with a cup of good coffee, or make sure you have access to enough fodd of the right type to maintain energy, or integrate light exercise such as walking to help keep the mind clear. This support might also include environmental factors, such as organizing the raw materials of your work to minimize energy-dissipating friction. To maximize your success, you need to support your effort to go deep. At the same time, this support needs to be systematized so that you don't waste mental energy figuring out what you need in the moment.
+Your ritual needs to ensure your brain gets the support it needs to keep operating at a high level of depth. For example, the ritual might specify that you start with a cup of good coffee, or make sure you have access to enough fodd of the right type to maintain energy, or integrate light exercise such as walking to help keep the mind clear. This support might also include environmental factors, such as organizing the raw materials of your work to minimize energy-dissipating friction. To maximize your success, you need to support your effort to go deep. At the same time, this support needs to be systematized so that you don't waste mental energy figuring out what you need in the moment.
 
 <mark>All these advise are so vague</mark>
 
@@ -181,25 +191,25 @@ Your ritual needs to ensure your brain gets the support it needs to keep operati
 
 ***The Grand Gesture***
 
-By leverageing a radical change to your normal environment, coupled perhaps with a **significant investment fo efforts or money**, all dedicated toward supporting a deep work task, you increase the perceived importance of the task.
+By leverageing a radical change to your normal environment, coupled perhaps with a **significant investment for efforts or money**, all dedicated toward supporting a deep work task, you increase the perceived importance of the task.
 
-To put yourself in and exotic location to focus on a writing project, or to take a week off from work just to think, ro to lock yourself in a hotel room until you complete an important invention: These gestures push your deep goal to a level of mental priority that helps unlock the needed mental resources.
+To put yourself in and exotic location to focus on a writing project, or to take a week off from work just to think, or to lock yourself in a hotel room until you complete an important invention: These gestures push your deep goal to a level of mental priority that helps unlock the needed mental resources.
 
 ***Execute Like a Business***
 
-> 4 Disciplines of Execution  
-> 
+> 4 Disciplines of Execution
+>
 > abbreviated, 4DX
 
 - **Discipline #1: Focus on the Wildly Important**
 
-The more you try to do, the less you actually acommplish. For an individual focused on deep work, the implication is that you should **identify a small number of ambitious outcomes to pursue with your deep work hours**. The general exhortation to "spend more time working deeply" doesn't spark a lot of enthusiasm. To instead **have a specific goal that would return tangible and substantail professional benefits** will generate a steadier stream of enthusiasm.
+The more you try to do, the less you actually accommplish. For an individual focused on deep work, the implication is that you should **identify a small number of ambitious outcomes to pursue with your deep work hours**. The general exhortation to "spend more time working deeply" doesn't spark a lot of enthusiasm. To instead **have a specific goal that would return tangible and substantial professional benefits** will generate a steadier stream of enthusiasm.
 
 - **Descipline #2: Act on the Lead Measures**
 
-Once you've identified a wildly important goal, you need to measure your seccess. In 4DX, there are two types of metrics for this purpose: lag measures and lead measures. **Lag measures decribie the thing you're ultimately tring to improve.** The problem with lag measures is that they come too late to change your behavior: "When you receive them, the performance that drove them is already in the past."
+Once you've identified a wildly important goal, you need to measure your success. In 4DX, there are two types of metrics for this purpose: lag measures and lead measures. **Lag measures decribie the thing you're ultimately trying to improve.** The problem with lag measures is that they come too late to change your behavior: "When you receive them, the performance that drove them is already in the past."
 
-Lead measures, on the other hand, **measure the new behaviors that will drive success on the lag measures.** Lead measures turn your attention to imporving the behaviors you directly contrl in the near future that will then have a positive impact on your long-term goals.
+Lead measures, on the other hand, **measure the new behaviors that will drive success on the lag measures.** Lead measures turn your attention to improving the behaviors you directly control in the near future that will then have a positive impact on your long-term goals.
 
 - **Descipline #3: Keep a Compelling Scoreboard**
 
@@ -221,7 +231,7 @@ There are several reasons **Why** a shutdown will be profitable to your ability 
 
 - **Reason #1: Downtime Aids Insights**
 
-The scientific literture has emphasized the benefits of conscious deliberation in decision making for hundreds of years... The question addressed here is whether this view is justified. We hypothesize that it is not.
+The scientific literature has emphasized the benefits of conscious deliberation in decision making for hundreds of years... The question addressed here is whether this view is justified. We hypothesize that it is not.
 
 To actively try to work through these decisions will lead to worse outcome than lading up the relevant information and the moving on to something else while letting the subconscious layer of your mind mull things over.
 
@@ -241,13 +251,13 @@ The 2008 study argues that walking on busy city streets requires you to use dire
 
 ... The implication of these results if that your capactiy for deep work in a given day is limited. If you're careful about your schedule, you should hit your daily deep work capacity during your workday. It follows, therefore, that by evening, you're beyond the point where you can continue to effectively work deeply.
 
-<mark>But this is not neccessarily proved that evening work is useless, the end point should depends on the body then feeling but not time</mark>
+<mark>But this is not necessarily proved that evening work is useless, the end point should depends on the body then feeling but not time</mark>
 
 ***Shutdown Ritual***
 
 **Zeigarnik Effect**
 
-This effect descirbes the ability of incomplete tasks to dominate our attention. It tell us that if you simply stop whatever you are doing at five p.m and declare, "I'm done with work until tomorrow," you'll likely struggle to keep your mind clear of professional issues, as the many obligations left unresolved in your mind will, as in Bluma Zeigarnik's experiments, keep battling for your attention throughout the evening (a battle that they'll often win).
+This effect describes the ability of incomplete tasks to dominate our attention. It tell us that if you simply stop whatever you are doing at five p.m and declare, "I'm done with work until tomorrow," **you'll likely struggle to keep your mind clear of professional issues, as the many obligations left unresolved in your mind will, as in Bluma Zeigarnik's experiments, keep battling for your attention throughout the evening** (a battle that they'll often win).
 
 The shutdown ritual described earlier leverages this tactic to battle the Zeigarnic effect. While it doesn't force you to explicitly identify a plan for every single task in your task list, it does force you to capture every task in a common list, and then review these tasks before making a plan for the next day. This ritual ensures that no task will be forgotten: Each will be reviewed daily and tackled when the time is appropriate. You mind, in other words, is released from its duty to keep track of these obligations at every moment--your shutdown ritual has taken over that responsibility.
 
@@ -267,7 +277,7 @@ Rule #2 will help you significantly improve this limit.
 
 Two goals of rule #2: improving your ability to concentrate intensely and overcoming your desire for distraction.
 
-***Don't Take Breaks from Distraction. Insteadd Take Breaks from Focus***
+***Don't Take Breaks from Distraction. Instead Take Breaks from Focus***
 
 I propose an alternative to the Internet Sabbath. Instead of scheduling the occasional break from distraction so you can focus, you should instead schedule the occasional break from focus to give in to distraction.To make this suggestion more concrete, let's make the simplifying assumption that Internet use is synonymous with seeking distracting stimuli. Similarly, let's consider working in the absence of the Internet to be synnoymous with more focus work.
 
@@ -277,7 +287,7 @@ With these rough categorizations established, the strategy works as fllows: Sche
 
 While the basic idea behind this strategy is straightforward, putting it into practice can be tricky. To help you successd, here are three important points to consider.
 
-- **Point #1** This strategy works even if your job requires lots of Internet use and/or prompt e-mail replyies
+- **Point #1** This strategy works even if your job requires lots of Internet use and/or prompt e-mail replies
 
 - **Point #2** Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
 
@@ -285,7 +295,7 @@ If this is infeasible--perhaps you need to get the current offline activity done
 
 - **Point #3** Scheduling Internet use at home as well as at work can further improve your concentration training.
 
-As in the workplace variantion of this strategy, if the Internet plays a large and important role in your evening entertainment, that's fine: Schedule lots of long Internet blocks. The key here isn't to avoid or even to reduce the total amount of time you spend engaging in distracting behavior, but is instead to give yourself plenty of opportunities throughtout your evening to resist switching to these distraction at the slightest hint of boredom.
+As in the workplace variation of this strategy, if the Internet plays a large and important role in your evening entertainment, that's fine: Schedule lots of long Internet blocks. The key here isn't to avoid or even to reduce the total amount of time you spend engaging in distracting behavior, but is instead to give yourself plenty of opportunities throughout your evening to resist switching to these distraction at the slightest hint of boredom.
 
 ***Meditate Productively***
 
@@ -297,11 +307,11 @@ The goal of productive meditation is to take a period in which you're occupied p
 
 **The Any-Benefit Approach to Network Tool Selection**: You're justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you won't use it.
 
-The problem with this approach, of course, is that it ignore all the negtives that come along with the tool in question.These services are engineered to be addictive--robbing time and attention from activities that more directly support your professional and personal goals.
+The problem with this approach, of course, is that it ignore all the negtives that come along with the tool in question. These services are engineered to be addictive--robbing time and attention from activities that more directly support your professional and personal goals.
 
 
 
-**The Craftsman Approach to Tool Selection**: Identify the core factor that determine your success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantailly outweight its negtive impacts.
+**The Craftsman Approach to Tool Selection**: Identify the core factor that determine your success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantailly outweigh its negative impacts.
 
 
 
@@ -327,11 +337,11 @@ Arnold Bennet identified the solution to this problem a hundred years earlier: *
 
 ***Schedule Every Minute of Your Day***
 
-**We spend much of your day on autopilot**
+**You spend much of your day on autopilot**
 
 Here's my suggestion: At the beginning of each workday, turn to a new page of lined paper in a notebook you dedicate to this purpose. Down the left-hand side of the page, mark every other line with an hour of the day, covering the full set of hours you typically work. Now comes the important part: Divide the hours of your workday into blocks and assign activities to the blocks. For example, you might block off nine a.m. to eleven a.m. for writing a client's press release. To do so, actually draw a box that covers the lines corresponding to these hours, then write "press release" inside the box. Not every block need be dedicated to a work task. There may time blocks for lunch or relaxation breaks. To keep things reasonably clean, the minimum length of a block should be thirty minutes.
 
-When you're done scheduling your day, every minute should be part of a block. You have, in effect, given minute of your workday a job.
+**When you're done scheduling your day, every minute should be part of a block. You have, in effect, given minute of your workday a job.**
 
 <mark>Maybe that's actually we own our time and life. Because it's easier to do something attactive but not meaningful to ourself. Let the conscience brain control your life instead of the random autopilot which ruins your time.</mark>
 
@@ -351,13 +361,13 @@ The definition of *Shallow work*
 
 **Shallow Work**: noncongnitively demanding, logical-style tasks, oftne performed while distracted. These efforts tend not to create much new value in the world and are easy to replicate.
 
-Some activities clearly satify this definition. Checking e-mail, for example, or scheduling a confernece call, is unquestionably shallow in nature. But the classification of other activities can be more ambiguous.
+Some activities clearly satisfy this definition. Checking e-mail, for example, or scheduling a conferneces call, is unquestionably shallow in nature. But the classification of other activities can be more ambiguous.
 
 
 
 asking a simple question to classify them:
 
-*How long would it take (in mouths) to train a smart recent college graduate with no specialized training in my field to coomplete this task?*
+*How long would it take (in mouths) to train a smart recent college graduate with no specialized training in my field to complete this task?*
 
 
 
@@ -377,6 +387,6 @@ Do not reply to an e-mail message if any of the following applies:
 
 - It's not a question or proposal that interstes you.
 
-- Nothing really good would happen if you did respond and nothing really bad would happend if you didn't.
+- Nothing really good would happen if you did respond and nothing really bad would happen if you didn't.
 
 ---
