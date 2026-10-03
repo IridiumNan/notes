@@ -155,19 +155,11 @@ This philosophy argues that the easiest way to consistently start deep work sess
 
 This name is a nod to the fact that jounrnalists, like Walter Isaacson, are trained to shift into a writing mode on a moment's notice, as is required by the deadline-driven nature of their profession.
 
-
-
 ---
-
-
 
 ***Ritualize***
 
-
-
 To make the most out of your deep work sessions, build rituals of the same level of strictnesss and idiosyncrasy as the important thinkers mentioned previously.
-
-
 
 There's no one correct deep work ritual--the right fit depends on both the person and the type of project pursued. But there are some general questions that any effecient ritual must address:
 
@@ -183,8 +175,6 @@ Your ritual needs rules and processes to keep your efforts structed. For example
 
 Your ritual needs to ensure your brain gets the support it needs to keep operating at a high level of depth. For example, the ritual might specifiy that you start with a cup of good coffee, or make sure you have access to enough fodd of the right type to maintain energy, or integrate light exercise such as walking to help keep the mind clear. This support might also include environmental factors, such as organizing the raw materials of your work to minimize energy-dissipating friction. To maximize your success, you need to support your effort to go deep. At the same time, this support needs to be systematized so that you don't waste mental energy figuring out what you need in the moment.
 
-
-
 <mark>All these advise are so vague</mark>
 
 ---
@@ -193,11 +183,7 @@ Your ritual needs to ensure your brain gets the support it needs to keep operati
 
 By leverageing a radical change to your normal environment, coupled perhaps with a **significant investment fo efforts or money**, all dedicated toward supporting a deep work task, you increase the perceived importance of the task.
 
-
-
 To put yourself in and exotic location to focus on a writing project, or to take a week off from work just to think, ro to lock yourself in a hotel room until you complete an important invention: These gestures push your deep goal to a level of mental priority that helps unlock the needed mental resources.
-
-
 
 ***Execute Like a Business***
 
@@ -209,21 +195,15 @@ To put yourself in and exotic location to focus on a writing project, or to take
 
 The more you try to do, the less you actually acommplish. For an individual focused on deep work, the implication is that you should **identify a small number of ambitious outcomes to pursue with your deep work hours**. The general exhortation to "spend more time working deeply" doesn't spark a lot of enthusiasm. To instead **have a specific goal that would return tangible and substantail professional benefits** will generate a steadier stream of enthusiasm.
 
-
-
 - **Descipline #2: Act on the Lead Measures**
 
 Once you've identified a wildly important goal, you need to measure your seccess. In 4DX, there are two types of metrics for this purpose: lag measures and lead measures. **Lag measures decribie the thing you're ultimately tring to improve.** The problem with lag measures is that they come too late to change your behavior: "When you receive them, the performance that drove them is already in the past."
 
 Lead measures, on the other hand, **measure the new behaviors that will drive success on the lag measures.** Lead measures turn your attention to imporving the behaviors you directly contrl in the near future that will then have a positive impact on your long-term goals.
 
-
-
 - **Descipline #3: Keep a Compelling Scoreboard**
 
 "People play differently when they're keeping score," the 4DX author explain.
-
-
 
 - **Descipline #4: Create a Cadence of Accountability**
 
@@ -237,61 +217,37 @@ Kreider
 
 Instead, I want to suggest a more applicable but still quite powerful heuristic: At the end of the workday, shut down your consideration of work issues until the next morning--no after-dinner e-mail check, no mental replays of conversations, and no scheming about how you'll handle an upcoming challenge; shut down work thinking completely.
 
-
-
 There are several reasons **Why** a shutdown will be profitable to your ability to produce valuable output.
-
-
 
 - **Reason #1: Downtime Aids Insights**
 
 The scientific literture has emphasized the benefits of conscious deliberation in decision making for hundreds of years... The question addressed here is whether this view is justified. We hypothesize that it is not.
 
-
-
 To actively try to work through these decisions will lead to worse outcome than lading up the relevant information and the moving on to something else while letting the subconscious layer of your mind mull things over.
 
 <mark>This has been proved by experiment, that's interesting.</mark>
 
-
-
 The implication of this line of research is that providing your conscious brain time to rest enable your unconscious mind to take a shift sorting through your most complex professional challenges.
-
-
 
 - **Reason #2: Downtime Helps Recharge the Energy**
 
 Attention restoration theory (ART) claims that spending time in nature can improve your ability to concentrate.
 
-
-
 To contentrate requires what ART called directed attention. This resource is finite: If you exhaust it, you'll struggle to contenctrate.
 
-
-
 The 2008 study argues that walking on busy city streets requires you to use directed attention, as you must navigate complicated tasks like figuring out when to cross a street to not get run over, or when to maneuver around the slow group of tourists blocking the sidewalk. After just fifty minutes of this focus navigation, the subject's store of directed attention was low.
-
-
 
 - **Reason #3: The Work That Evening Downtime Replaces Is Usually Not That Important**
 
 ... The implication of these results if that your capactiy for deep work in a given day is limited. If you're careful about your schedule, you should hit your daily deep work capacity during your workday. It follows, therefore, that by evening, you're beyond the point where you can continue to effectively work deeply.
 
-
-
 <mark>But this is not neccessarily proved that evening work is useless, the end point should depends on the body then feeling but not time</mark>
 
-
-
 ***Shutdown Ritual***
-
-
 
 **Zeigarnik Effect**
 
 This effect descirbes the ability of incomplete tasks to dominate our attention. It tell us that if you simply stop whatever you are doing at five p.m and declare, "I'm done with work until tomorrow," you'll likely struggle to keep your mind clear of professional issues, as the many obligations left unresolved in your mind will, as in Bluma Zeigarnik's experiments, keep battling for your attention throughout the evening (a battle that they'll often win).
-
-
 
 The shutdown ritual described earlier leverages this tactic to battle the Zeigarnic effect. While it doesn't force you to explicitly identify a plan for every single task in your task list, it does force you to capture every task in a common list, and then review these tasks before making a plan for the next day. This ritual ensures that no task will be forgotten: Each will be reviewed daily and tackled when the time is appropriate. You mind, in other words, is released from its duty to keep track of these obligations at every moment--your shutdown ritual has taken over that responsibility.
 
@@ -301,25 +257,15 @@ The shutdown ritual described earlier leverages this tactic to battle the Zeigar
 
 ## Embrace Boredom
 
-
-
 Clifford Nass
 
 > So we have scales that allow us to divide people into people who multitask all the time and people who rarely do, and the differences are remarkable. People who multitask all the time can't filter out irrelevancy. They can't manage a working memory. They're chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand...they're pretty much mental wrecks.
-
-
-
-
 
 Rule #1 taught you how to integrate deep work into your schedule and support it with routines and rituals designed to help you consistently reach the current limit of your contentration ability
 
 Rule #2 will help you significantly improve this limit.
 
-
-
 Two goals of rule #2: improving your ability to concentrate intensely and overcoming your desire for distraction.
-
-
 
 ***Don't Take Breaks from Distraction. Insteadd Take Breaks from Focus***
 
@@ -327,19 +273,11 @@ I propose an alternative to the Internet Sabbath. Instead of scheduling the occa
 
 With these rough categorizations established, the strategy works as fllows: Schedule in advance when you'll use the Internet, and then avoid it altogether outside these times.
 
-
-
 <mark>I think this suggestion is incredible as it inverse all mindest that focus is option to focus is default</mark>
-
-
 
 While the basic idea behind this strategy is straightforward, putting it into practice can be tricky. To help you successd, here are three important points to consider.
 
-
-
 - **Point #1** This strategy works even if your job requires lots of Internet use and/or prompt e-mail replyies
-
-
 
 - **Point #2** Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
 
@@ -349,14 +287,30 @@ If this is infeasible--perhaps you need to get the current offline activity done
 
 As in the workplace variantion of this strategy, if the Internet plays a large and important role in your evening entertainment, that's fine: Schedule lots of long Internet blocks. The key here isn't to avoid or even to reduce the total amount of time you spend engaging in distracting behavior, but is instead to give yourself plenty of opportunities throughtout your evening to resist switching to these distraction at the slightest hint of boredom.
 
-
-
 ***Meditate Productively***
 
 The goal of productive meditation is to take a period in which you're occupied physically but not mentally--walking, jogging, driving, showering--and focus your attention on a single well-defined professional problem. As in mindfulness meditation, you must continue to bring your attention back to the problem at hand when it wanders or stalls.
 
-
-
 ## Rule #3
 
 ## Quit Social Media
+
+**The Any-Benefit Approach to Network Tool Selection**: You're justified in using a network tool if you can identify any possible benefit to its use, or anything you might possibly miss out on if you won't use it.
+
+The problem with this approach, of course, is that it ignore all the negtives that come along with the tool in question.These services are engineered to be addictive--robbing time and attention from activities that more directly support your professional and personal goals.
+
+
+
+**The Craftsman Approach to Tool Selection**: Identify the core factor that determine your success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantailly outweight its negtive impacts.
+
+
+
+After thirty days of this self-imposed network isolatioin, ask yourself the following two questions about each of the servicces you temporarily quit:
+
+1. Would the last thirty days have been notably better if I had been able to use this service ?
+
+2. Did people care about that I wasn't using this service ?
+
+***Don't User the Internet to Entertain Yourself***
+
+Arnold Bennet identified the solution to this problem a hundred years earlier: *Put more thought into your leisure time.* In other words, this strategy suggest that when it comes to your relaxation, don't default to whatever catches your attention at the moment, but instead dedicate some advance thinkinig to the question of how you want to spend your "day within a day."
