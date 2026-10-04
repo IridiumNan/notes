@@ -62,13 +62,13 @@ $P = T \times I$
 
 Where
 
-- $P$ is HIgh-Quality Work Produced
+- $P$ is High-Quality Work Produced
 
 - $T$ is Time Spent
 
 - $I$ is Intensity of Focus
 
-The probloem this research identifies with this work strategy is that when you switch from some Task A to another Task B, your attention doesn't immediately follow--a *residue* of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task a was unbounded and of low intensity before you switched, but even if your finish Task A before moving on, your attention remains divided for a while.
+The problem this research identifies with this work strategy is that when you switch from some Task A to another Task B, your attention doesn't immediately follow--a *residue* of your attention remains stuck thinking about the original task. This residue gets especially thick if your work on Task a was unbounded and of low intensity before you switched, but even if your finish Task A before moving on, your attention remains divided for a while.
 
 Leroy
 
@@ -80,7 +80,7 @@ To produce at your peak level you need to work for extended periods with full co
 
 They(High-level executive) are then presented inpus throughout the day--in the form of e-mails, meetings, site visits, and the like--that they must process and act on. To ask a CEO to spend four hours thinking deeply about a single problem is a waste of what makes him or her valuable. It's better to hire three smart subordinates to think deeply about the problem and then bring their solutions to executive for a final decision.
 
-This specificity is important because it tells use theat if you're a high-level executive at a major company, you probably don't need the advice in the pages that follow.
+This specificity is important because it tells use treat if you're a high-level executive at a major company, you probably don't need the advice in the pages that follow.
 
 There are, we must continually remember, certain corners of our economy where depth is no valued.
 
@@ -309,11 +309,7 @@ The goal of productive meditation is to take a period in which you're occupied p
 
 The problem with this approach, of course, is that it ignore all the negtives that come along with the tool in question. These services are engineered to be addictive--robbing time and attention from activities that more directly support your professional and personal goals.
 
-
-
 **The Craftsman Approach to Tool Selection**: Identify the core factor that determine your success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantailly outweigh its negative impacts.
-
-
 
 After thirty days of this self-imposed network isolatioin, ask yourself the following two questions about each of the servicces you temporarily quit:
 
@@ -333,8 +329,6 @@ Arnold Bennet identified the solution to this problem a hundred years earlier: *
 
 37signal's experiments highlights an important reality: The shallow work that increasingly dominates the time and attention of knowledge workers is less vital than it often seems in the moment. For most business, if you eliminated significant amounts of this shallowness, their bottom line would likely remain unaffected.
 
-
-
 ***Schedule Every Minute of Your Day***
 
 **You spend much of your day on autopilot**
@@ -344,8 +338,6 @@ Here's my suggestion: At the beginning of each workday, turn to a new page of li
 **When you're done scheduling your day, every minute should be part of a block. You have, in effect, given minute of your workday a job.**
 
 <mark>Maybe that's actually we own our time and life. Because it's easier to do something attactive but not meaningful to ourself. Let the conscience brain control your life instead of the random autopilot which ruins your time.</mark>
-
-
 
 Joseph's critique is driven by the mistaken idea that the goal of a schedule is to force your behavior into a rigid plan. This type of scheduling, however, isn't about constraint--it's instead about thoughtfulness. It's simple habit that forces you to continually take a moment throughout your day and ask: "What makes sense for me to do with the time that remains?" It's a habit of asking that returns results, not your unyielding fidelity to the answer.
 
@@ -363,13 +355,9 @@ The definition of *Shallow work*
 
 Some activities clearly satisfy this definition. Checking e-mail, for example, or scheduling a conferneces call, is unquestionably shallow in nature. But the classification of other activities can be more ambiguous.
 
-
-
 asking a simple question to classify them:
 
 *How long would it take (in mouths) to train a smart recent college graduate with no specialized training in my field to complete this task?*
-
-
 
 ***Become Hard to Reach***
 
