@@ -68,8 +68,6 @@ But what created that? Not "getting organized" or "setting priorities." The answ
 
 We're never really taught that we have to think about our work before we can do it; much of our daily activity is already defined for us by the undone and unmoved things staring at us when we come to work, or by the family to be fed, the launday to be done, or the children to be dressed at home. Thinking in a concentrated manner to define desired outcomes and requisite next action is something few people feel they have to do (until they have to). But in truth, it is the most effective means available for making wishes a reality.
 
-
-
 **Why Things Are on Your Mind**
 
 Most often, the reason something is on your mind is that you want it to be different than it currently is, and yet:
@@ -87,8 +85,6 @@ Most often, the reason something is on your mind is that you want it to be diffe
 Here's how I define "stuff": anything you have allowed into your psychological or physical world that doesn't belong where it is, but for which you haven't yet determined what, exactly, it means to you, with the desired outcome and the next action step. The reason most organizing systems haven't worked for most people is that they haven't yet transformed all the stuff they're trying to organize. As long as it's still stuff, it's not controllable.
 
 *We need to transform all "stuff" we've attracted and accumulated into a clear inventory of meaningful actions, projects, and usable information.*
-
-
 
 #### The Process: Managing Action
 
@@ -114,8 +110,6 @@ Horizontal maintains coherence across all the activities in which you are involv
 
 Vertical control, in contrast, manage thinking, development, and coordination of individual topics and projects.
 
-
-
 ##### The Major Change: Getting It All Out of Your Head
 
 There is no reason to ever have the same thought twice, unless you like having that thought.
@@ -124,7 +118,7 @@ I try to make intuitiive choices based on my options, instead of trying to think
 
 > Premise:
 > 
-> The short-term-memory part of your mind--the part that tends to hold all of the imcomplete, undecided, and unorganized stuff--functions much like RAM (random-access memory) on a computer. You can think about only two or three things at once.
+> The short-term-memory part of your mind--the part that tends to hold all of the incomplete, undecided, and unorganized stuff--functions much like RAM (random-access memory) on a computer. You can think about only two or three things at once.
 
 ---
 
@@ -134,16 +128,58 @@ The core process for mastering the art of relaxed and controlled engagement is a
 
 These procedures I will describe work together as a whole, and using them to produce results is both easier and more chanllenging than you may think.
 
-
-
 #### <mark>Five Steps</mark>
 
-We (1) capture what has our attention; (2) clarify what each item  means and what to do about it; (3) organize the results, which presents the options we (4) reflect on, which we then choose to (5) engage with.
-
-
+We (1) **capture** what has our attention; (2) **clarify** what each item  means and what to do about it; (3) **organize** the results, which presents the options we (4) **reflect** on, which we then choose to (5) **engage** with.
 
 The method is straightforward enough in principle, and it is generally how we all go about our work in any case, but in my experience most people can significantly improve their handling of each one of the five steps. The quality of our workflow management is only as good as the weakest link in this five-phase chain, so all the links must be integrated and supported with consistent standards.
 
-
-
 *Ask yourself, "When do I need to see what, in what form, to get it off my mind?" You build a system for function, not just to have a system".*
+
+
+
+I have discovered that one of the major reasons many people haven't had a log of success with getting organized is simply that they have tried to do all five steps at one time.
+
+
+
+#### Capture
+
+**Gathering 100 Percent of the Incompletes**
+
+In order to eliminate "holes in your bucket," you need to collect and gather placeholders for, or representations of, all the things you consider incomplete in your world--that is, **anything personal or professional, big or little, of urgent or minor importance, that you think ought to be different thatn it currently is and that you have any level of internal commitment to changing.**
+
+
+
+As soon as you attach a "should", "need to", or "ought to" to an item. it becomes an incomplete. Dicisions you still need to make about whether or not you are going to do something, for example, are already incompletes. This includes all of your I'm-going-tos, in which you've decide to do something but haven't started moving on it yet.
+
+In order to manae this inventory of open loops appropriately, you need to capture it into "**containers**" that hold itmes in abeyance until you have a few moments to decide what they are and what, if anything, you're going to do about them.
+
+Basically, everything potentially meaningful to you is already being collected, in the larger sense.
+
+**The Capture Tools**
+
+- Physical in-tray
+
+- Paper-based note-taking devices
+
+- Digital/audio note-taking devices
+
+- E-mail and text messaging
+
+**Success Factors for Caupturing**
+
+- Get it all out of your head
+
+Keep everything in your head or out of your head. If it's in between, you won't trust either one. These collection tools should become part of your lifestyle.
+
+- Minimize the Number of Capture Locations
+
+Funnel all potentially meaningful inputs through minimal channels, directed to you for easily accessed review and assessment about their nature.
+
+- Empty the Capture Tool Regularly
+
+Too much stuff is left piled in in-trays (physical and digital) because of a lake of effective systems "downstream" from there.
+
+
+
+#### Charify
