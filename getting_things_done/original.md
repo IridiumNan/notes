@@ -136,11 +136,9 @@ The method is straightforward enough in principle, and it is generally how we al
 
 *Ask yourself, "When do I need to see what, in what form, to get it off my mind?" You build a system for function, not just to have a system".*
 
-
-
 I have discovered that one of the major reasons many people haven't had a log of success with getting organized is simply that they have tried to do all five steps at one time.
 
-
+---
 
 #### Capture
 
@@ -148,11 +146,9 @@ I have discovered that one of the major reasons many people haven't had a log of
 
 In order to eliminate "holes in your bucket," you need to collect and gather placeholders for, or representations of, all the things you consider incomplete in your world--that is, **anything personal or professional, big or little, of urgent or minor importance, that you think ought to be different thatn it currently is and that you have any level of internal commitment to changing.**
 
-
-
 As soon as you attach a "should", "need to", or "ought to" to an item. it becomes an incomplete. Dicisions you still need to make about whether or not you are going to do something, for example, are already incompletes. This includes all of your I'm-going-tos, in which you've decide to do something but haven't started moving on it yet.
 
-In order to manae this inventory of open loops appropriately, you need to capture it into "**containers**" that hold itmes in abeyance until you have a few moments to decide what they are and what, if anything, you're going to do about them.
+In order to manage this inventory of open loops appropriately, you need to capture it into "**containers**" that hold itmes in abeyance until you have a few moments to decide what they are and what, if anything, you're going to do about them.
 
 Basically, everything potentially meaningful to you is already being collected, in the larger sense.
 
@@ -178,8 +174,136 @@ Funnel all potentially meaningful inputs through minimal channels, directed to y
 
 - Empty the Capture Tool Regularly
 
-Too much stuff is left piled in in-trays (physical and digital) because of a lake of effective systems "downstream" from there.
+Too much stuff is left piled in in-trays (physical and digital) because of a lake of effective systems "**downstream**" from there.
 
-
+---
 
 #### Charify
+
+```mermaid
+graph TB
+    Stuff --> In-basket --> action{Is it actionable ?}
+    
+    subgraph NOAct
+        na1([Trash])
+        na2([Someday/maybe\nhold for review])
+        na3([Reference \nretrievable when reuqired])
+    end
+    
+    subgraph YesAct
+    direction TB
+    nextA{What's the next action ?}
+    nextA --> proj([Projects \nplanning])
+    proj --> projPlan([Project plans\nreview for actions])
+    
+    nextA --> nextCost{Will it take less thant 2 minutes ?}
+    
+    nextCost --> |Yes| di[Do it]
+    nextCost --> noless2[no]
+    noless2 --> Delegate
+    noless2 --> Defer
+    end
+    
+    action --> No
+    No --> na1
+    No --> na2
+    No --> na3
+    
+    action --> Yes
+    Yes --> YesAct
+    
+```
+
+##### Is It Actionable ?
+
+What's the Next Acion ? This is the critical question for anything you've captured; if you answer it appropriately, you'll have the key substantive thing to organize. The "next action" is the next physical, visible activity that needs to be engaged in, in order to move the current reality of this thing forward completion.
+
+Do It, Delegate It, or Defer It Once you've decided on the next action, you have three options:
+
+1. Do it. if an action will take less than two minutes, it should be done at the moment it is defined.
+
+2. Delegate it. If the action will take longer than two minutes, ask yourself, Am I the right person to do this? If the answer is no, delegate it to the appropriate entity.
+
+3. Defer it, If the action will take longer than two mintues, and you are the right person to do it, you will have to defer acting on it until later and track it on one or more "Next Actions" list.
+
+---
+
+#### Organize
+
+Being organized meas simply that where something is matches what it means to you.
+
+##### Projects
+
+I define a project as any desired result that can be accomplished within a year that requires more than one action step. 
+
+Projects do not initally need to be listed in any particular order, by size, or by priority. They just need to be on a master list so you can review them regularly enough to ensure that appropriate next actions have been defined for each of them.
+
+You don't actually do a project; you can only do action steps related to it. When enough of the right actions steps have been taken, some situation will have been created that matches your initial picture of the outcome closely enough that you can call it "done". The list of project is the compilatoin of finish lines we put before us to keep our next actions moving on all tracks appropriately.
+
+**Project Support Material**
+
+Your projects list will be merely an index. All of the details, plans, and supporting information that you may need as you work on your various project should be contained in separated file folders, compute files, notebooks, or binders.
+
+I usually recommend that people store their support materials out of sight. 
+
+There will be times, though, when it'll be more convenient to have the materials out and instantly in view and available, especially if you're working on a hot project that you need to check references for serveral times during the day.
+
+**The Next-Action Categories**
+
+Any less-than-two-minutes actoins that you perform, and all other actions that have already been completed, do not, of course, need to be tracked; they're done.
+
+
+
+What does need to tracked is 
+
+1. every action that has to happen at specific time or on a specific day (enter those on your calendar);
+
+2. those that need to be done as soon as they can (add these to your Next action lists); 
+
+3. all those that you are waiting for others to do (put these on a Waiting For list).
+
+> Calendar
+
+Three things go on your calendar:
+
+- time-specific actions;
+
+This is a fancy name for appointments.
+
+- day-specific actions;
+
+These are things that you need to do sometime on a certain day, but not necessarily at a specific time.
+
+- day-specific information;
+
+The calendar is also the palce to keep track of things you wnat to know about on specific days--not necessarily actions you'll have to take but rather information that may be useful on a certain date.
+
+
+
+**But such lists embedded on a calendar don't work, for two reasons.**
+
+First, constant new input and shifting tactical priorities reconfigure daily work so consistantly that it's virtaully impossible to nail down to-do items ahead of time.
+
+Second, if there's something on a daily to-do list that doesn't absolutely have to get done that day, it will dilute the emphasis on the things that truly do.
+
+That said, there's absolutely nothing wrong with creating a quick, informal, short list of "if I have time, I'd really like to ..." kinds of things, picked from your Next Action inventory. It just should not be confused with your "have-tos", and it should be treated lightly enough to discard or change quickly as the inevitable surprises of the day unfold.
+
+
+
+##### Nonactionable Items
+
+**Trash**
+
+Trash should be self-evident. Throw away, thred, or recycle anything that has no potentail action or reference value.
+
+**Incubation**
+
+There are two kinds of incubation tools that could work for this kind of thing: Someday/Maybe lists and a tickler system.
+
+- *Someday/Maybe*
+
+It can be useful and inspiring to maintain an ongoing list of things you might want to do at some point but not now. This is the "parking lot" for projects that would be impossibile to move on at present but that you don't want to forget about entirely.
+
+- *Tickler System*
+
+A second type fo things to incubate are those you don't want or need to be remainded of until some designed time in the future. Your calendar can serve the same function.
