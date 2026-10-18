@@ -183,35 +183,34 @@ Too much stuff is left piled in in-trays (physical and digital) because of a lak
 ```mermaid
 graph TB
     Stuff --> In-basket --> action{Is it actionable ?}
-    
+
     subgraph NOAct
         na1([Trash])
         na2([Someday/maybe\nhold for review])
         na3([Reference \nretrievable when reuqired])
     end
-    
+
     subgraph YesAct
     direction TB
     nextA{What's the next action ?}
     nextA --> proj([Projects \nplanning])
     proj --> projPlan([Project plans\nreview for actions])
-    
+
     nextA --> nextCost{Will it take less thant 2 minutes ?}
-    
+
     nextCost --> |Yes| di[Do it]
     nextCost --> noless2[no]
     noless2 --> Delegate
     noless2 --> Defer
     end
-    
+
     action --> No
     No --> na1
     No --> na2
     No --> na3
-    
+
     action --> Yes
     Yes --> YesAct
-    
 ```
 
 ##### Is It Actionable ?
@@ -252,8 +251,6 @@ There will be times, though, when it'll be more convenient to have the materials
 
 Any less-than-two-minutes actoins that you perform, and all other actions that have already been completed, do not, of course, need to be tracked; they're done.
 
-
-
 What does need to tracked is 
 
 1. every action that has to happen at specific time or on a specific day (enter those on your calendar);
@@ -278,8 +275,6 @@ These are things that you need to do sometime on a certain day, but not necessar
 
 The calendar is also the palce to keep track of things you wnat to know about on specific days--not necessarily actions you'll have to take but rather information that may be useful on a certain date.
 
-
-
 **But such lists embedded on a calendar don't work, for two reasons.**
 
 First, constant new input and shifting tactical priorities reconfigure daily work so consistantly that it's virtaully impossible to nail down to-do items ahead of time.
@@ -287,8 +282,6 @@ First, constant new input and shifting tactical priorities reconfigure daily wor
 Second, if there's something on a daily to-do list that doesn't absolutely have to get done that day, it will dilute the emphasis on the things that truly do.
 
 That said, there's absolutely nothing wrong with creating a quick, informal, short list of "if I have time, I'd really like to ..." kinds of things, picked from your Next Action inventory. It just should not be confused with your "have-tos", and it should be treated lightly enough to discard or change quickly as the inevitable surprises of the day unfold.
-
-
 
 ##### Nonactionable Items
 
@@ -307,3 +300,141 @@ It can be useful and inspiring to maintain an ongoing list of things you might w
 - *Tickler System*
 
 A second type fo things to incubate are those you don't want or need to be remainded of until some designed time in the future. Your calendar can serve the same function.
+
+##### Reference Material
+
+Many things that come your way require no action but have intrinsic value as information.
+
+The most important thing to remember here is that reference should be exactly that--information that can be easily referred to when required.
+
+---
+
+#### Reflect
+
+You need to be able to step back and review the whole picture of your life and work from a broader perspective as well as drop down "into the weeds" of concrete action to take, as needed, and at appropriate intervals. For most people the magic of workflow management is realized in the consistent use of the reflection step. This is where, in one important case, you take a look at all your outstanding projects and open loops, at what I call Horizon 1 level, on a weekly basis. It's your chance to scan all the defined actions and options before you, thus redically increasing the efficacy of choices you make about what you're doing at any point in time.
+
+##### Critical Success Factor: The Weekly Review
+
+Everything that might require action must be reviewed on a frequent enough basis to keep your mind from taking back the job of remebering and remainding. In order to trust the rapid and intuitive judgment calls that you make about actions from moment to moment, you must consistently retrench at some more elevated level. In my experience (with thousands of people), that translates into a behavior critical for success: the **The Weekly Review**
+
+All of your Projects, action project plans, and Next Actions, Agendas, Waiting For, and even Someday/Maybe lists should be reviewed once a week. This also gives you an opportunity to ensure that your brain is clear and that all the loose strands of the past few days have been captured, clarified, and organized.
+
+The Weekly Review is the time to:
+
+- Gather and process all your stuff.
+
+- Review your system.
+
+- Update your lists.
+
+- Get clean, clear, current, and complete.
+
+> This review means all done jobs for this week should not just deleted from storage, instead, you should store them on a different folder then review on weeekend.
+
+---
+
+#### Engage
+
+There are three modles that will be helpful for you to incorporate in your decision making about what to do. They won't tell you answers--whether you call Mario, e-mail your son at school, or just have an informal conversation with your secretary--but they will assist you in framing your options more intelligently. And that's something that the simple time- and priority-management panaceas can't do.
+
+##### The Four-Criteria Modell for Choosing Actions in the Moment
+
+At that moment there are four criteria you can apply, in this order: context, time available, energy available, and priority.
+
+*Context* You are always constrained by what you have the capability to do at this time. A few actions can be done anywhere (such as drafting ideas about a project with pen and paper), but most reuqire a specific location (at home, at your office) or having some productivity tool at hand, such as a phone or a computer. There are the first factors that limit your choices about what you can do in this moment.
+
+*Time Available* When do you have to do something else? Having a meeting in five minutes would prevent doing any actions that require more time.
+
+*Energy Available* How much energy do you have? Some actions you have to do reuqire a reservoir of fresh, creative mental energy. Others nee more physical horsepower. Some need very little of either.
+
+*Priority* Given your context, time, and energy available, what actions remaining of your options will give you the highest payoff ? You're in your office with a phone and a computer, you have an hour, and your enery is 7.3 on a scale of 10. Should you call the client back, work on the proposal, process your e-mails, or check in with your spouse to see how his or her day going?
+
+##### The Threefold Model for Identifying Daily Work
+
+When you're getting tings done, or "working" in the universal sense, there are three different kinds of activities you can engaged in:
+
+- Doing predefined work
+
+- Doing work as it shows up
+
+- Defining your work
+
+*Doing Predefined Work* When you're doing predefined work, you're **working from your Next Actions lists and calendar--completing tasks that you have previously determined need to be doen, or managing your workflow.** You're making the calls you need to make, drafting ideas you want to brainstorm, attending meetings, or preparing a list of things to talk to your attorney about.
+
+*Doing Work as It Shows Up* Often things come up ad hoc-unsuspected, unforeseen--that you either have to or choose to engage in as they occur. For example, your partner walks into your office and wants to have a conversation about the new product launch, so you talk to her instead of doing all the other things you could be doing. **Every day brings surprises--unplanned-for things that just show up**--and you'll need to expend at least some time and energy on many of them. When you follow these leads, you're deciding by default that these things are more important than anything else you have to do at those times.
+
+*Defining Your Work* Defining your wokr entails clearing up your in-tray, your digital messages, and your meeting notes, and breaking down new projects into actionable steps. As you process your inputs, you'll no doubt be taking care of some less-that-two-minute actions and tossing and filing numerous things (another version of doing work as it shows up).A good portion of this activity will consist of identifying things that need to get done sometime, but not right away. You'll be adding to all of your lists as you go along.
+
+##### The Six-Level Model for Reviewing Your Own Work
+
+In order to know what your priorities are, you have to know what your work is. And there are at least six different persectives from which to define that.
+
+- Horizon 5: Purpose and principles
+
+- Horizon 4: Vision
+
+- Horizon 3: Goals
+
+- Horizon 2: Areas of focus and accoutabilities
+
+- Horizon 1: Currrent projects
+
+- Ground: Current actions
+
+*Ground*: Current Actions This is the accumulated list of all the actions you need to take--all the phone calls you have to make, the e-amils you have to respond to, the errands you've got to run, and the agendas you want to communicate to your boss and you life partner. You'd probably have more than a hundred of these items to handle if you stopped the world right now with no more input from yourself or anyone else.
+
+*Horizon 1*: Current Projects Generating most of the actions that you currently have in front of you are the thirty to one hundred projects on your plate. These are the relatively short-term outcomes you want to achieve, such as getting up a new home, computer, organizing a sales conference, moving to a new headquarters, and getting a dentist.
+
+*Horizon 2*: Areas of Focus and Accountabilities You create or accept your projects and actions because of the roles, interests, and accountablities you have. These are the key areas of your life and work within which you want to achieve results and maintain standards. Your job may entail at least implicit commitments for thigs like trategic planning, administrative support, staff development, market research, customer service, or asset management. And your personal life has an equal number of such focus arenas: health, family, finances, home environment, spirituality, recreation, etc. These are not things to finish but rather to use as criteria for assessing our experiences and our engagements, to maintain balance and sustainability, as we operate in our work and our world. Listing and reviewing these responsibilities gives a more comprehensive framework for evaluating your inventory of projects.
+
+*Horizon 3*: Goals What you want to be experiencing in various areas of your life and work one to two years from now will add another dimension to defining your wokr. Often meeting the goals and objectives of your job will require a shift in emphasis of your job focus, with new accountailities emerging. At this horizon personally, too, there probably are things you'd like to accomplish or have in place, which could add important to certain aspects of your life and diminish others.
+
+*Horizon 4*: Vision Projecting three to five years into the future generate thinking about bigger categories: organization strategies, environmental trends, career and lifestyle transition cirumstances. Internal factors include long-term career, family, financial, and quality-of-life aspirations and considerations. Outer-world issues could involve changes affecting your job and organization, such as technology, globalization, market trends, and competition. Decisons at this altitude could easily change what your work might look like on many levels.
+
+*Horizon 5*: Purpose and Principles This is the big-picture view. Whay does your company exist? Why do you exist? What really matters to you, no matter what? The primary purpose for anything provides the core definition of what the work really is. It is the ultimate job description. All goals, visions, objectives, projects, and actions derive from this, and lead toward it.
+
+---
+
+## Getting Projects Creatively Under Way: The Five Phases of Project Planning
+
+The key ingredients of relaxed control are (1) clearly defined outcomes (projects) and the next actions required to move them toward closure, and (2) reminders placed in a trusted system that is reviewed regularly. This is what I call horizontal focus.
+
+### Enhancing Vertical Focus
+
+Horizontal focus is all you'll need in most situations, most of time. Sometimes, however, you may need greater rigor and focus to get a project or situation under control, to identify a solution, or to ensure that all the right steps have been determined. This is where vertical focus comes in.
+
+This kind of thinking doesn't have to be elaborate. Most of the thinking you'll need to do is informal, what I call back-of-the-envelope planning--the kind of thing you do literally on the lack of an envelope or napkin in a coffee shop with a colleague as you're hashing out the agenda and structure of a sales presentation. ... But as a general rule, you can be pretty creative with nothing more than a pend and piece of paper.
+
+In my experience, when people do more planning, informally and naturally, they relieve a great deal of stress and obtain better results.
+
+### The Natural Planning Model
+
+Your mind goes through five steps to accomplish virtually any task:
+
+1. Defining purpose and principles
+
+2. Outcome visioning
+
+3. Brainstorming
+
+4. Organizing
+
+5. Identifying next actions
+
+
+
+Your intention was your purpose, and it automatically triggered your internal planning process. Your principles created the boundaries of your plan.
+
+...
+
+Whereas your purpose was the *why* of your goingi out to dinner, your vision was an image of the *what*--of the physical world's looking, sounding, and feeling the ways that best fulfilled your purpose.
+
+Once you'd identified with your vision, what did your mind naturally begin doing? What did it start to think about? "What time should we go?" "Is it open tonight?" "Will it be crowded?" "What's the weather like?" "Should we change clothes?" "Is there gas in the car?" "How hugry are we?" That was brainstorming. Those questions were part of the naturally creative process that happens once you commit to some outcome that hasn't happened yet. Your brain noticed a gap between what you were looking toward and where you actually were at the time, and it began to resolve that congnitive dissonance by trying to fill in the blanks.
+
+...
+
+Once you had generated a sufficient number of ideas and details, you couldn't help but to organize them.
+
+...
+
+Finnally (assuming that you're really committed to the project--in this case, going out to dinner), you focus on the next action that you need to take to make the first component actually happen. It's how you create things--dinner, a relaxing evening, a new product, or a new company. You have an urge to make something happen; you image the outcome; you generate ideas that might be relevant; you sort those into a structure; and you define a physical activity that would begin to make it a reality. And you do all of that naturally, without giving it much thought.
