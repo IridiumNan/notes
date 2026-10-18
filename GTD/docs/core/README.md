@@ -222,5 +222,7 @@ The Weekly Review is the time to:
 ---
 
 See also
+
 <https://en.wikipedia.org/wiki/Getting_Things_Done>
+
 <https://binome360.com/en/blog/getting-things-done-gtd>
