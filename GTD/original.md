@@ -24,7 +24,7 @@ Now, for many of us, there are no edges to most of our projects. Most people I k
 
     *We can never really are prepared for what which is wholly new. We have to adjust ourselves, and every radical adjustment is a crisis in self-esteem; we undergo a test, we have to prove ourselves. It needs subordinate self-confidence to fact drastic change without inner trembling.*
 
-                                    *--Eric Hoffer*
+---
 
 #### The Big Picture vs. the Nitty-Gritty
 
@@ -40,11 +40,11 @@ Focusing on primary outcomes and values is a critical exercise, certainly. It pr
 
 *Life is denied by lack of attention, whether it be to cleaning windows or trying to write a masterpiece.*
 
-                                    *--Nadia Boulanger*
+---
 
 #### The Principle: Dealing Effectively with Internal Commitments
 
-*Anything that does not belong where it is, the way it is, is an "open loop", which will be pulling on your attention if it's not approprately managed.*open loop
+*Anything that does not belong where it is, the way it is, is an "open loop", which will be pulling on your attention if it's not approprately managed.* open loop
 
 **The Basic Requirements for Managing Commitments**
 
@@ -88,7 +88,7 @@ Here's how I define "stuff": anything you have allowed into your psychological o
 
 #### The Process: Managing Action
 
-Before you can chieve any of that, though, you'll need to get in the habit of keeping nothing on your mind. and the way to do that, as we've seen, is not by managing time, managing information, managing priorities. After all:
+Before you can achieve any of that, though, you'll need to get in the habit of keeping nothing on your mind. and the way to do that, as we've seen, is not by managing time, managing information, managing priorities. After all:
 
 - you don't manage five minutes and wind up with six.
 
@@ -96,7 +96,7 @@ Before you can chieve any of that, though, you'll need to get in the habit of ke
 
 - you don't manage priorities--you have them.
 
-Instead, **the key to mananging all of you r stuff is managing your actions.**
+Instead, **the key to mananging all of your stuff is managing your actions.**
 
 ##### Managing Action Is the Prime Chanllenge
 
@@ -229,21 +229,21 @@ Do It, Delegate It, or Defer It Once you've decided on the next action, you have
 
 #### Organize
 
-Being organized meas simply that where something is matches what it means to you.
+Being organized means simply that where something is matches what it means to you.
 
 ##### Projects
 
-I define a project as any desired result that can be accomplished within a year that requires more than one action step. 
+I define a project as any desired result that can be accomplished within a year that requires more than one action step.
 
 Projects do not initally need to be listed in any particular order, by size, or by priority. They just need to be on a master list so you can review them regularly enough to ensure that appropriate next actions have been defined for each of them.
 
-You don't actually do a project; you can only do action steps related to it. When enough of the right actions steps have been taken, some situation will have been created that matches your initial picture of the outcome closely enough that you can call it "done". The list of project is the compilatoin of finish lines we put before us to keep our next actions moving on all tracks appropriately.
+**You don't actually do a project; you can only do action steps related to it.** When enough of the right actions steps have been taken, some situation will have been created that matches your initial picture of the outcome closely enough that you can call it "done". The list of project is the compilatoin of finish lines we put before us to keep our next actions moving on all tracks appropriately.
 
 **Project Support Material**
 
 Your projects list will be merely an index. All of the details, plans, and supporting information that you may need as you work on your various project should be contained in separated file folders, compute files, notebooks, or binders.
 
-I usually recommend that people store their support materials out of sight. 
+I usually recommend that people store their support materials out of sight.
 
 There will be times, though, when it'll be more convenient to have the materials out and instantly in view and available, especially if you're working on a hot project that you need to check references for serveral times during the day.
 
@@ -251,11 +251,11 @@ There will be times, though, when it'll be more convenient to have the materials
 
 Any less-than-two-minutes actoins that you perform, and all other actions that have already been completed, do not, of course, need to be tracked; they're done.
 
-What does need to tracked is 
+What does need to tracked is
 
 1. every action that has to happen at specific time or on a specific day (enter those on your calendar);
 
-2. those that need to be done as soon as they can (add these to your Next action lists); 
+2. those that need to be done as soon as they can (add these to your Next action lists);
 
 3. all those that you are waiting for others to do (put these on a Waiting For list).
 
@@ -421,8 +421,6 @@ Your mind goes through five steps to accomplish virtually any task:
 
 5. Identifying next actions
 
-
-
 Your intention was your purpose, and it automatically triggered your internal planning process. Your principles created the boundaries of your plan.
 
 ...
@@ -438,3 +436,15 @@ Once you had generated a sufficient number of ideas and details, you couldn't he
 ...
 
 Finnally (assuming that you're really committed to the project--in this case, going out to dinner), you focus on the next action that you need to take to make the first component actually happen. It's how you create things--dinner, a relaxing evening, a new product, or a new company. You have an urge to make something happen; you image the outcome; you generate ideas that might be relevant; you sort those into a structure; and you define a physical activity that would begin to make it a reality. And you do all of that naturally, without giving it much thought.
+
+---
+
+In the prior two chapters, I covered the basic models of how to stay maximally productive and in control, with minimal effort, at the two most basic leverls of our life and work: the actions we take then the projects we enter into that generate many of those actions.
+
+> You need no new skills to increase your productivity and reduce your stress--just an enhanced set of systematic behaviors with which to apply them.
+
+The fundamentals remain true--you must be responsible for collecting all your open loops, applying a front-end thought process to each of them, and managing the results with organization, review, and action.
+
+For all those situations that you have any level of commitment to complete these is a natural planning process that occurs to get you from here to there. Leverageing that five-phase model can often make the evolution easier, faster, and more productive.
+
+These models are simple to understand and easy to implement. Applying them creates remarkable results. You need essentially no new skills--you already know how to write things down, clarify outcomes, decide next actions, put things into categories, review it all, and make intuitive choices. Right now you have the ability to focus on sucessful results, brainstorm, organize your thinking, and get moving on your next steps.
