@@ -6,3 +6,4 @@
 - [大学思考](/university_video_bilibili/)
 - [Deep Work](/deep_work/)
 - [Getting Things Done](./GTD/)
+- [Liberal Education](./LiberalEducation/)
