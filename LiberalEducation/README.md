@@ -1,6 +1,8 @@
 # Liberal Education
 
 > [!NOTE]
+> 原文查看 [微信公众号链接](https://mp.weixin.qq.com/s/RlWf-Qmt3gQX8oczHs_eKw)  
+> 或者下载到本地的文件 [original.md](./docs/original.md)  
 > 逐段的解读查看 [parts.md](./docs/parts.md)
 
 ## 概要
